@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soumyadip</h1>
 <h3 align="center">A passionate Data Analyst who loves digging into numbers to find the story they tell.</h3>
 
+- 🤝 I’m looking for help with **Building a Dashboard, Visualize, Statistical Analysis, Extracting, Cleaning**
+
+- 💬 Ask me about **My Skills**
+
 - 📫 How to reach me **mondalsoumya.me@gmail.com**
+
+- ⚡ Fun fact **A single pencil has enough graphite to draw a line 35 miles long...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +22,5 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mondalsoumya&show_icons=true&locale=en&layout=compact" alt="mondalsoumya" /></p>
